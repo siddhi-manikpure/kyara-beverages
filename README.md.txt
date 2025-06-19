@@ -46,7 +46,7 @@ Edit
 
 Once deployed via GitHub Pages:
 
-[https://your-username.github.io/kyara-beverages/](https://your-username.github.io/kyara-beverages/)
+[https://siddhi-manikpure.github.io/kyara-beverages/](https://siddhi-manikpure.github.io/kyara-beverages/)
 
 ## 📩 Submission
 
